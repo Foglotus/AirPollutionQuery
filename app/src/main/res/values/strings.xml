@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Air Pollution</string>
+
+    <string name="app_name_cn">空气质量监测</string>
+    <string name="app_version">1.0</string>
+    <string name="app_author">foglotus</string>
+    <string name="app_school_number">ZB1017123</string>
+    <string name="app_website">foglotus.com</string>
+    <string name="app_select_city">城市选择</string>
+
+
+    <string name="btn_ok">确定</string>
+
+
+    <string name="item_name_air_quality">空气质量：</string>
+    <string name="item_name_air_point_time">监测时间：</string>
+    <string name="item_name_air_primary_pollution">主要污染物：</string>
+    <string name="item_name_no_option">未选择</string>
+
+
+    <string name="menu_name_select_city">城市选择</string>
+    <string name="menu_name_about">关于</string>
+
+    <!--提示-->
+    <string name="tips_city_querying">查询中...</string>
+    <string name="tips_city_load_success">城市数据加载成功</string>
+    <string name="tips_city_load_failed">城市数据加载失败</string>
+    <string name="tips_city_load_not_ready">城市数据尚未加载完成</string>
+    <string name="tips_city_query_failed">查询失败</string>
+    <string name="tips_city_query_success">查询成功</string>
+    <string name="tips_city_info_invalid">城市信息不正确，请重新选择城市</string>
+</resources>

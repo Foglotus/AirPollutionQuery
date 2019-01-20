@@ -41,7 +41,7 @@ public class CityAirQuality {
     }
 
     public void setPrimaryPollution(String primaryPollution) {
-        if(primaryPollution.equals("null"))
+        if(primaryPollution.equals("null") || primaryPollution.equals(""))
             primaryPollution = "无";
 
         primaryPollution = primaryPollution.replace(",","\n");
